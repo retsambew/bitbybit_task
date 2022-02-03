@@ -1,0 +1,29 @@
+.block{
+    display: flex;
+    flex-direction: column;
+    background-color: #e2bbf0;
+    border-radius: 5%;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 8px 7px 10px rgba(184, 51, 235, 0.7);
+    overflow: hidden;
+}
+
+.block:hover{
+    transform: translateY(-10px);
+    box-shadow: 8px 17px 10px rgba(184, 51, 235, 0.7);
+}
+
+.block h1{
+    margin: 0px;
+    margin-top: auto;
+}
+
+.block p{
+    display: flex;
+    padding: 0px 15px 10px;
+    height: 20vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}

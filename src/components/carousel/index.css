@@ -1,0 +1,20 @@
+.caro-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    background-color: black;
+}
+
+.caro-subcontainer{
+    width: 60vw;
+    height: 80vh;
+    border-radius: 2%;
+    background-color: white;
+    box-shadow: 10px 15px 10px rgba(255, 255, 255, 0.6);
+}
+
+.caro-subcontainer h1{
+    padding-left: 5vw;
+}
