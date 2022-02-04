@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bitbybit_task/static/css/main.718e4945.css",
-    "main.js": "/bitbybit_task/static/js/main.46ca8b1a.js",
+    "main.css": "/bitbybit_task/static/css/main.2fb73770.css",
+    "main.js": "/bitbybit_task/static/js/main.eb390945.js",
     "static/media/profile.jpeg": "/bitbybit_task/static/media/profile.94638c52e9a541deda43.jpeg",
     "static/media/profile2.jpg": "/bitbybit_task/static/media/profile2.5c601cd2d8fb3b7c4622.jpg",
     "static/media/bitbybit_logo.png": "/bitbybit_task/static/media/bitbybit_logo.51040291b2f1a2f6374b.png",
@@ -11,11 +11,11 @@
     "static/media/slick.ttf": "/bitbybit_task/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/bitbybit_task/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/bitbybit_task/index.html",
-    "main.718e4945.css.map": "/bitbybit_task/static/css/main.718e4945.css.map",
-    "main.46ca8b1a.js.map": "/bitbybit_task/static/js/main.46ca8b1a.js.map"
+    "main.2fb73770.css.map": "/bitbybit_task/static/css/main.2fb73770.css.map",
+    "main.eb390945.js.map": "/bitbybit_task/static/js/main.eb390945.js.map"
   },
   "entrypoints": [
-    "static/css/main.718e4945.css",
-    "static/js/main.46ca8b1a.js"
+    "static/css/main.2fb73770.css",
+    "static/js/main.eb390945.js"
   ]
 }
